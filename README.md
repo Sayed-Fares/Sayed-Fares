@@ -1,3 +1,3 @@
 Hello my name is Syed Faris
-He is interested in programming and is currently studying this exciting field
-I am looking forward to mastering this field
+I am interested in programming and am currently studying this field
+I am looking forward to mastering this exciting field
